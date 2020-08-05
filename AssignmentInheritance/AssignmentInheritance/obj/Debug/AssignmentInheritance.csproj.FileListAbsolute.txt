@@ -1,0 +1,7 @@
+E:\New folder\AssignmentInheritance\AssignmentInheritance\bin\Debug\AssignmentInheritance.exe.config
+E:\New folder\AssignmentInheritance\AssignmentInheritance\bin\Debug\AssignmentInheritance.exe
+E:\New folder\AssignmentInheritance\AssignmentInheritance\bin\Debug\AssignmentInheritance.pdb
+E:\New folder\AssignmentInheritance\AssignmentInheritance\obj\Debug\AssignmentInheritance.csprojAssemblyReference.cache
+E:\New folder\AssignmentInheritance\AssignmentInheritance\obj\Debug\AssignmentInheritance.csproj.CoreCompileInputs.cache
+E:\New folder\AssignmentInheritance\AssignmentInheritance\obj\Debug\AssignmentInheritance.exe
+E:\New folder\AssignmentInheritance\AssignmentInheritance\obj\Debug\AssignmentInheritance.pdb
